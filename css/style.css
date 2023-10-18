@@ -133,7 +133,7 @@ h1 {
 .prev {
   width: 60px;
   height: 60px;
-  background-image: url(/img/kanan2.png);
+  background-image: url(../img/kanan2.png);
   position: absolute;
   text-indent: -9999px;
   top: 43%;
@@ -142,7 +142,7 @@ h1 {
 }
 
 .prev {
-  background-image: url(/img/kiri2.png);
+  background-image: url(../img/kiri2.png);
   margin-left: -81px;
 }
 
